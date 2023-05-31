@@ -1,0 +1,36 @@
+[
+
+    {
+        "id":"1",
+        "image":"image1.jpeg",
+        "title":"Anker Soundcore",
+        "desc":" active",
+        "price":59
+    },
+    {
+        "id":"2",
+        "image":"image2.jpeg",
+        "title":"core",
+        "desc":"Hybrid active",
+        "price":60
+    },
+    {
+        "id":"3",
+        "image":"image3.jpeg",
+        "title":"Anker ",
+        "desc":" headphones",
+        "price":70
+    },
+    {
+        "id":"4",
+        "image":"image4.jpeg",
+        "title":"Soundcore",
+        "desc":"Hybrid ",
+        "price":12
+    }
+
+
+
+
+
+]
